@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm KHOAHD7621</h1>
+<h1 align="center">Hi 👋, I'm Khoa Dang Hoang</h1>
 
-<h3 align="center">A passionate Full Stack undergraduate from Viet Nam
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">A passionate full stack undergraduate from Vietnam
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h3>
 
 [![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/khoahd7621.gif)](https://www.facebook.com/hoangdangkhoa.7621)
 
 - 🔭 I’m currently studying at [FPT University HCM](https://hcmuni.fpt.edu.vn/)
 
-- 🌱 I’m currently learning **Java Web, C#, HTML, CSS, JavaScript, .Net, ...**
+- 🌱 I’m currently learning **Java Web, C#, ReactJS, .Net, ...**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/khoahd7621?tab=repositories)
 
 - 📝 I regularly write articles and share information on [My Facebook Page](https://www.facebook.com/hoangdangkhoa.7621)
 
-- 💬 Ask me about **Java, C, HTML5, CSS3**
+- 💬 Ask me about **Java, C, HTML5, CSS3, JavaScript, Jquery, Java Web ...**
 
 - 📄 Know about my experiences [Through My Certifications]()
 
 - ⚡ Fun fact **I love watching movie, playing video game, studying programming**
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoahd7621&label=Profile%20views&color=brightgreen&style=flat" alt="khoahd7621" /> </p>
-
 - 📫 How to reach me **hoangdangkhoa7621@gmail.com**
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=khoahd7621&label=Profile%20views&color=brightgreen&style=flat" alt="khoahd7621"/></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -107,67 +109,9 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-🌆 Daytime    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-🌃 Evening    0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-🌙 Night      0 commits    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Tuesday      04 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   100.00 % 
-Wednesday    00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Thursday     00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Friday       00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Saturday     00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 % 
-Sunday       00 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages:
-Java                     28 hrs               ███████████████░░░░░░░░░░   65.12 % 
-HTML                     04 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   9.3 % 
-CSS                      03 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   6.98 % 
-JavaScript               03 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   6.98 %
-Microsoft SQL Server     05 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-
-🐱‍💻 Projects: 
-Vaccine Management       07 hrs               █████████████░░░░░░░░░░░░   50.00 % 
-Food Management          07 hrs               █████████████░░░░░░░░░░░░   50.00 %
-Unknown Project          0 secs               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-
-💻 Operating System: 
-Windows                  84 hrs 59 mins       █████████████████████████   100.0 %
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos              █████████████████████░░░░   87.5 % 
-JavaScript               0 repos              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0 % 
-HTML                     0 repos              ░░░░░░░░░░░░░░░░░░░░░░░░░   05.0 % 
-CSS                      0 repos              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0 % 
-C                        1 repos              ██░░░░░░░░░░░░░░░░░░░░░░░   12.5 %
-
-```
-
-
 **Timeline**
 
- Last Updated on 22/09/2021
-<!--END_SECTION:waka-->
+Last Updated on 27/12/2021
 
 - Visitor count since 01/01/2021:
 <p align="left"> 
