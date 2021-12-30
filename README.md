@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
-[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/khoahd7621.gif)](https://www.facebook.com/hoangdangkhoa.7621)
+[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/khoahd7621.gif)](https://www.facebook.com/khoahd7621)
 
 - 🔭 I’m currently studying at [FPT University HCM](https://hcmuni.fpt.edu.vn/)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/khoahd7621?tab=repositories)
 
-- 📝 I regularly write articles and share information on [My Facebook Page](https://www.facebook.com/hoangdangkhoa.7621)
+- 📝 I regularly write articles and share information on [My Facebook Page](https://www.facebook.com/khoahd7621)
 
 - 💬 Ask me about **Java, C, HTML5, CSS3, JavaScript, Jquery, Java Web ...**
 
@@ -160,4 +160,4 @@ Last Updated on 27/12/2021
 </table>
 <!--END_SECTION:top-followers-->
 
-[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/Sharing.gif)](https://www.facebook.com/hoangdangkhoa.7621)
+[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/Sharing.gif)](https://www.facebook.com/khoahd7621)
