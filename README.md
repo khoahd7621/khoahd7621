@@ -1,117 +1,64 @@
-<h1 align="center">Hi 👋, I'm Khoa Dang Hoang</h1>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/khoahd7621?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/khoahd7621?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=khoahd7621&label=Profile%20views&color=brightgreen&style=flat" alt="khoahd7621"/>
 
-<h3 align="center">A passionate full stack undergraduate from Vietnam
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title"></img>
+</div>
 
-[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/khoahd7621.gif)](https://www.facebook.com/khoahd7621)
-
-- 🔭 I’m currently studying at [FPT University HCM](https://hcmuni.fpt.edu.vn/)
-
-- 🌱 I’m currently learning **Java Web, C#, ReactJS, .Net, ...**
-
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/khoahd7621?tab=repositories)
-
-- 📝 I regularly write articles and share information on [My Facebook Page](https://www.facebook.com/khoahd7621)
-
-- 💬 Ask me about **Java, C, HTML5, CSS3, JavaScript, Jquery, Java Web ...**
-
-- 📄 Know about my experiences [Through My Certifications]()
-
-- ⚡ Fun fact **I love watching movie, playing video game, studying programming**
-
-- 📫 How to reach me **hoangdangkhoa7621@gmail.com**
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=khoahd7621&label=Profile%20views&color=brightgreen&style=flat" alt="khoahd7621"/></p>
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px"></img>, My fullname is Hoàng Đăng Khoa <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="25px"></h5></div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hoang-dang-khoa-5a1784200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-dang-khoa-5a1784200/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16250275/hoang-dang-khoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16250275/hoang-dang-khoa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hoangdangkhoa.7621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangdangkhoa.7621" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dangkhoa.7621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dangkhoa.7621" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently 3rd year student at [**FPT University - Ho Chi Minh City Campus**](https://hcmuni.fpt.edu.vn/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-    </br> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-</p>
+- 📚 My major is **Software Engineering**
 
+- 🌱 I’m currently learning **C, Java, SQL, Java Web, C#, .Net, ...**
 
-[![KHOAHD7621's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoahd7621&show_icons=true&theme=great-gatsby&locale=en)](https://github-readme-stats.vercel.app/api?username=khoahd7621&show_icons=true&theme=great-gatsby&locale=en)
+- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
 
-[![Top Languages of khoahd7621](https://github-readme-stats.vercel.app/api/top-langs?username=khoahd7621&show_icons=true&theme=radical&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=khoahd7621&show_icons=true&theme=radical&locale=en&layout=compact)
+- 📝 I regularly write articles and share information on [**my Facebook page**](https://www.facebook.com/khoahd7621)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khoahd7621&background=000000&sideNums=FD9C2B&currStreakNum=FD9C2B&dates=FDFD6A&sideLabels=FD9C2B&border=DDBD1F&stroke=CCC235)](https://git.io/streak-stats)
+- 📄 Know about my experiences [**Through My Certifications**]()
+
+- ⚡ Fun fact **I love watching movie, studying programming, eating food...**
+
+## 🛠 Some Languages and Tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
+
+## 🌟 About Some Stats
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoahd7621&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=khoahd7621&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=khoahd7621&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=khoahd7621&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=khoahd7621&theme=react-dark"/> -->
+</div>
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+## 🎴 **Timeline**
 
-**Timeline**
-
-Last Updated on 27/12/2021
+Last Updated on 25/04/2022
 
 - Visitor count since 01/01/2021:
 <p align="left"> 
@@ -124,7 +71,7 @@ Last Updated on 27/12/2021
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=z9mrlvr38tvf27nnud0v7k5sm&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=z9mrlvr38tvf27nnud0v7k5sm&width=1000)
 
-# My top followers
+## My top followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -160,4 +107,34 @@ Last Updated on 27/12/2021
 </table>
 <!--END_SECTION:top-followers-->
 
-[![Social banner for khoahd7621](https://github.com/khoahd7621/khoahd7621/blob/main/assets/Sharing.gif)](https://www.facebook.com/khoahd7621)
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:hoangdangkhoa7621@gmail.com" >
+    <img align="center" alt="khoahd7621 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/khoahd7621/" target="_blank">
+    <img align="center" alt="khoahd7621 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/khoahd7621/" target="_blank">
+      <img align="center" alt="khoahd7621 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/khoahd7621/" target="_blank">
+    <img align="center" alt="khoahd7621 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/khoahd7621" target="_blank">
+    <img align="center" alt="khoahd7621 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/channel/UCz2eTohjKZeT6IyPN9y0Jgg" target="_blank">
+    <img align="center" alt="khoahd7621 | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2022 Khoa Dang Hoang khoahd7621
+</div>
