@@ -11,7 +11,7 @@
 
 - 📚 My major is **Software Engineering**
 
-- 🌱 I’m currently learning **C, Java, SQL, Java Web, C#, .Net, ...**
+- 🌱 I’m currently learning **C#, .Net Core, Spring Boot, ReactJS, ...**
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
 
