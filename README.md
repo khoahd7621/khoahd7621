@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title"></img>
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px"></img>, My fullname is Hoàng Đăng Khoa <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="25px"></h5></div>
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Hoàng Đăng Khoa <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
 - 🔭 I’m currently 3rd year student at [**FPT University - Ho Chi Minh City Campus**](https://hcmuni.fpt.edu.vn/)
@@ -74,7 +74,7 @@ Last Updated on 25/04/2022
 
 ## My top followers
 <!--START_SECTION:top-followers-->
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/conanak99">
@@ -108,7 +108,7 @@ Last Updated on 25/04/2022
 </table>
 <!--END_SECTION:top-followers-->
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:hoangdangkhoa7621@gmail.com" >
     <img align="center" alt="khoahd7621 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
