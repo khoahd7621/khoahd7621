@@ -7,7 +7,7 @@
 ## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Hoàng Đăng Khoa <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
-- 🔭 I’m currently 3rd year student at [**FPT University - Ho Chi Minh City Campus**](https://hcmuni.fpt.edu.vn/)
+- 🔭 I’m currently 3rd year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/)
 
 - 📚 My major is **Software Engineering**
 
@@ -15,11 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
 
-- 📝 I regularly write articles and share information on [**my Facebook page**](https://www.facebook.com/khoahd7621)
+- 📄 Know about my experiences [**through my certifications**](https://github.com/khoahd7621/awards)
 
-- 📄 Know about my experiences [**Through My Certifications**]()
-
-- ⚡ Fun fact **I love watching movie, studying programming, eating food...**
+- ⚡ Fun fact **I love watching movie, studying programming, japanese, eating food...**
 
 ## 🛠 Some Languages and Tools
 
