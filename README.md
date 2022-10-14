@@ -11,7 +11,7 @@
 
 - 📚 My major is **Software Engineering**
 
-- 🌱 I’m currently learning **C#, .Net Core, Spring Boot, ReactJS, ...**
+- 🌱 I’m currently learning **C#, .Net Core,...**
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
 
@@ -22,24 +22,29 @@
 ## 🛠 Some Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
 
 ## 🌟 About Some Stats
 
@@ -69,42 +74,6 @@ Last Updated on 25/04/2022
 - ⚡ **My Spotify Recently Played List (If you'd like to know me through music):**
 
 [![My Spotify's recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=z9mrlvr38tvf27nnud0v7k5sm&width=1000)](https://spotify-recently-played-readme.vercel.app/api?user=z9mrlvr38tvf27nnud0v7k5sm&width=1000)
-
-## My top followers
-<!--START_SECTION:top-followers-->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/conanak99">
-        <img src="https://avatars.githubusercontent.com/u/6670026?v=4" width="100px;" alt="conanak99"/>
-      </a>
-      <br />
-      <a href="https://github.com/conanak99">Phạm Huy Hoàng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/doit-now">
-        <img src="https://avatars.githubusercontent.com/u/49265183?v=4" width="100px;" alt="doit-now"/>
-      </a>
-      <br />
-      <a href="https://github.com/doit-now">giáo-làng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/J2TEAM">
-        <img src="https://avatars.githubusercontent.com/u/5250117?v=4" width="100px;" alt="J2TEAM"/>
-      </a>
-      <br />
-      <a href="https://github.com/J2TEAM">JUNO_OKYO</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ttphats">
-        <img src="https://avatars.githubusercontent.com/u/87026966?v=4" width="100px;" alt="ttphats"/>
-      </a>
-      <br />
-      <a href="https://github.com/ttphats">Thái Thành Phát</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
