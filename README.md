@@ -7,11 +7,11 @@
 ## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Hoàng Đăng Khoa <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
-- 🔭 I’m currently final-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/)
+- 🎒 I’m currently working at [**NashTech**](https://nashtechglobal.com/) as **Software Engineering** - **Java**
 
-- 📚 My major is **Software Engineering**
+- 🔭 I’m currently final-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering** 
 
-- 🌱 I’m currently learning **C#, .Net Core, Unity, Android...**
+- 🌱 I’m currently learning [**OCP: Java SE 17 Developer**](https://education.oracle.com/java-se-17-developer/pexam_1Z0-829), [**AWS Certified Developer - Associate**](https://aws.amazon.com/certification/certified-developer-associate/), and more.
 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/khoahd7621?tab=repositories)
 
