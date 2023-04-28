@@ -68,6 +68,13 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=khoahd7621&theme=algolia&background=0d1117&hide_border=true" />
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />
+  </picture>
+</div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
